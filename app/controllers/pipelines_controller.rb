@@ -1,5 +1,5 @@
 class PipelinesController < ApplicationController
   def index
-    render json: { drop_in: 'Ride out' }
+    render json: Wave.first(10)
   end
 end
