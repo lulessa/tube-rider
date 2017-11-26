@@ -8,3 +8,4 @@ However, because this is a fake app, we'll tell you how to ride out of a tube at
 * Do a few hulas
 * If the barrel is crumbling, turn down and exit through the doggy door past the chandelier.
 * Else, if the tube is square, ride straight out.
+* Else, punch out through the back of the wave to safety.
