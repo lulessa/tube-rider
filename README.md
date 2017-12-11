@@ -3,22 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+However, because this is a fake app, we'll tell you how to ride out of a tube at Pipeline.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Do a few hulas
+* If the barrel is crumbling, turn down and exit through the doggy door past the chandelier.
+* Else, if the tube is square, ride straight out.
+* Else, punch out through the back of the wave to safety.
